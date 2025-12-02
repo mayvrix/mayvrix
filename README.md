@@ -4,6 +4,7 @@ I'm **Tanmay**, a B.Tech CSE undergrad from Bhubaneswar, India.
 I love turning ideas into real products — whether it’s for the web or mobile.
 
 - 🔹 Currently improving: **DSA & System Design**
+- 💻 Programming: **Java, Python**
 - 🌐 Web Dev: **React, JavaScript, Tailwind**
 - 📱 Mobile Dev: **Flutter**
 - 🎨 UI/UX Tools: **Figma**
