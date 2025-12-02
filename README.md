@@ -37,7 +37,7 @@ Tech: *Flutter, Firebase, Supabase*
 ### 📫 Let’s Connect
 Always open to collaboration or just a friendly chat!
 
-Portfolio: [https://  ](https://tanmaynayakwork.web.app/)
+Portfolio: [Tanmay's Work](https://tanmaynayakwork.web.app/)
 Email:  tanmaynayak136@gmail.com
 LinkedIn: https://www.linkedin.com/in/mayvrix
 
