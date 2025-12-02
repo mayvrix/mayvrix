@@ -32,7 +32,7 @@ Tech: *Flutter, Firebase, Supabase*
 
 ### 🧠 LeetCode Stats
 
-![LeetCode Stats](https://leetcard.jacoblin.cool/mayvrix?theme=dark&ext=heatmap)
+![LeetCode Stats](https://leetcard.jacoblin.cool/mayvrix?theme=unicorn&border=0&ext=heatmap)
 
 ---
 
