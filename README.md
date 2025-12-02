@@ -27,7 +27,7 @@ Tech: *Flutter, Firebase, Supabase*
 
 ---
 
-### 🌱 Goals for 2025
+### 🌱 Goals for 2026
 - Contribute to open-source more actively and participate in **GSoC**
 - Build polished real-world apps & deploy at scale
 - Become strong in **Algorithms & Problem Solving** and grow as a better engineer every day
