@@ -30,6 +30,12 @@ Tech: *Flutter, Firebase, Supabase*
 
 ---
 
+### 🧠 LeetCode Stats
+
+![LeetCode Stats](https://leetcard.jacoblin.cool/mayvrix?theme=dark&ext=heatmap)
+
+---
+
 ### 📫 Let’s Connect
 Always open to collaboration or just a friendly chat!
 
