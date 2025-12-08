@@ -38,10 +38,6 @@ Tech: *React, JavaScript, Tailwind, Firebase, Supabase*
 ### 📫 Let’s Connect
 Always open to collaboration or just a friendly chat!
 
-Portfolio: [Tanmay's Work](https://tanmaynayakwork.web.app/)
-Email:  tanmaynayak136@gmail.com
-LinkedIn: https://www.linkedin.com/in/mayvrix
-
 ---
 
 > _"Break the System. Build Your Own."_ ✨
